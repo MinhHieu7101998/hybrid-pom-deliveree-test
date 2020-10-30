@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="url" value="https://www.google.com/"/>
+  <test thread-count="5" name="Run on CHROME UI(failed)">
+    <parameter name="browser" value="chrome_ui"/>
+    <classes>
+      <class name="deliveree.pretest.users.Level_01_Search_With_Google">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="TC_01_Search_With_Value"/>
+        </methods>
+      </class> <!-- deliveree.pretest.users.Level_01_Search_With_Google -->
+    </classes>
+  </test> <!-- Run on CHROME UI(failed) -->
+</suite> <!-- Failed suite [Suite] -->
