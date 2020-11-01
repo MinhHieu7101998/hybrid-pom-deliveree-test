@@ -1,0 +1,12 @@
+Full name: Võ Minh Hiếu
+Email: minhhieu7101998@gmail.com
+Link github: https://github.com/MinhHieu7101998
+				REPORT TEST OF DELIVEREE
+	Environment
+		1.	Tools: Selenium WebDriver
+		2.	Programing: Java
+		3.	Browser: Chrome and Firefox
+	Requirements
+		Complete: 100%
+		Execute file: runTestcaseDeliveree.xml
+Link file report.docx: https://drive.google.com/drive/folders/136bbnAmD37NYpRdSdouRUcE6ztF8aw9F?usp=sharing
